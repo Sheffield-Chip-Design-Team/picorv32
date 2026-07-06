@@ -1,5 +1,6 @@
 CAPI=2:
-name yosys:cpu_ip:picorv32:1.0
+name: yosys:cpu_ip:picorv32:1.0.0
+description: Fork of The PicoRV32 from Yosys
 
 filesets:
   rtl:
